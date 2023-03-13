@@ -78,9 +78,14 @@ pip install https://github.com/catharinusdijkstra/tensorflow-2-object-detection-
 ```
 
 The second way is to create a new **requirements.txt** file and include the line
-git+<https://github.com/catharinusdijkstra/tensorflow-2-object-detection-api>, or if you
-already have a requirements.txt file with any other packages you want to install,
-simply add this line to this already existing file. Then run the following command:
+
+```
+git+https://github.com/catharinusdijkstra/tensorflow-2-object-detection-api
+```
+
+, or if you already have a requirements.txt file with any other packages you want to
+install, simply add this line to this already existing file. Then run the following
+command:
 
 ```
 pip install -r requirements.txt
