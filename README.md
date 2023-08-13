@@ -33,7 +33,7 @@ by providing a code base that can be easily installed and used directly.
 1. An Integrated Development Environment (IDE) such as for example
 [Visual Studio Code](https://code.visualstudio.com/).
 2. [conda](https://docs.conda.io/projects/conda/en/stable/).
-3. [Protocol Buffer Compiler](https://protobuf.dev/)
+3. [Protocol Buffer Compiler](https://protobuf.dev/).
 
 The codebase in this repository can be directly imported in your own Python code for
 object detection, or it can be used to setup a Python environment tf2-object-detection
@@ -91,7 +91,7 @@ command:
 pip install -r requirements.txt
 ```
 
-## Setup the Python environment data-science-tools locally (optional)
+## Setup the Python environment tf2-object-detection locally (optional)
 
 In order to setup the Python environment tf2-object-detection locally, run the following
 commands from the root folder of this repository:
